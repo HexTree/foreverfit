@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ForeverFit</string>
+    <string name="action_settings">Settings</string>
+    <string name="title">ForeverFit</string>
+    <string name="description">Together we will do some exercise every 20 minutes.\n\nHope you are ready for it!</string>
+
+    <string name="dialog_title">Are you ready?</string>
+    <string name="dialog_text">Every 20 minutes we will stand up and get some exercise.\n\nWhen the notification appears, click \"Later!\" if you want to delay by 5 minutes.</string>
+    <string name="ok">Ok</string>
+
+    <string name="ticker">Exercise time!</string>
+    <string name="lets_go">Let\'s go!</string>
+    <string name="later">Later</string>
+    <string name="dialog_title1">\@string/dialog_title</string>
+
+    <string-array name="notification_messages">
+        <item>Time to exercise!</item>
+        <item>Stand up. Let\'s be active!</item>
+        <item>Care to walk about? Maybe jump or dance?</item>
+        <item>We\'ve been sitting long enough, let\'s move!</item>
+    </string-array>
+
+</resources>
